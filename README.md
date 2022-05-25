@@ -1,4 +1,4 @@
-# TypeScript library starter
+# TypeScript rollup starter
 
 Based on [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter), this is a self-use version record, upgrade dependencies to the latest version. Add webpack-dev-middleware local service preview
 
@@ -8,6 +8,8 @@ Based on [TypeScript library starter](https://github.com/alexjoverm/typescript-l
 git clone https://github.com/zhaohuanyuu/ts-lib-starter YOURFOLDERNAME
 cd YOURFOLDERNAME
 ```
+
+Then change the package.json and rollup.config.ts modify `"your-lib-name"` to a custom name
 
 ```shell
 # watch build
