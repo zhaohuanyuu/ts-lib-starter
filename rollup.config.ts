@@ -7,7 +7,7 @@ import typescript from 'rollup-plugin-typescript2'
 
 const pkg = require('./package.json')
 
-const libraryName = 'ts-rollup-starter'
+const libraryName = 'your-lib-name'
 
 export default {
   input: `src/${libraryName}.ts`,
